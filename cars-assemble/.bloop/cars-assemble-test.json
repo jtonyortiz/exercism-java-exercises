@@ -1,0 +1,170 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "cars-assemble-test",
+        "directory": "C:\\Users\\james\\Exercism\\java\\cars-assemble",
+        "workspaceDir": "C:\\Users\\james\\Exercism\\java\\cars-assemble",
+        "sources": [
+            "C:\\Users\\james\\Exercism\\java\\cars-assemble\\src\\test\\java"
+        ],
+        "dependencies": [
+            "cars-assemble"
+        ],
+        "classpath": [
+            "C:\\Users\\james\\Exercism\\java\\cars-assemble\\.bloop\\cars-assemble\\build\\classes",
+            "C:\\Users\\james\\Exercism\\java\\cars-assemble\\src\\main\\resources",
+            "C:\\Users\\james\\.gradle\\caches\\modules-2\\files-2.1\\junit\\junit\\4.13\\e49ccba652b735c93bd6e6f59760d8254cf597dd\\junit-4.13.jar",
+            "C:\\Users\\james\\.gradle\\caches\\modules-2\\files-2.1\\org.assertj\\assertj-core\\3.15.0\\b5b633545f357f576bd0661b302914a3951319d\\assertj-core-3.15.0.jar",
+            "C:\\Users\\james\\.gradle\\caches\\modules-2\\files-2.1\\org.hamcrest\\hamcrest-core\\1.3\\42a25dc3219429f0e5d060061f71acb49bf010a0\\hamcrest-core-1.3.jar"
+        ],
+        "out": "C:\\Users\\james\\Exercism\\java\\cars-assemble\\.bloop\\cars-assemble-test\\build",
+        "classesDir": "C:\\Users\\james\\Exercism\\java\\cars-assemble\\.bloop\\cars-assemble-test\\build\\classes",
+        "resources": [
+            "C:\\Users\\james\\Exercism\\java\\cars-assemble\\src\\test\\resources"
+        ],
+        "java": {
+            "options": [
+                "-source",
+                "11",
+                "-target",
+                "11",
+                "-encoding",
+                "UTF-8",
+                "-g",
+                "-sourcepath",
+                "",
+                "-proc:none",
+                "-XDuseUnsharedTable=true"
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework",
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "utest.runner.Framework"
+                    ]
+                },
+                {
+                    "names": [
+                        "munit.Framework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    {
+                        "args": [
+                            "-v",
+                            "-a"
+                        ],
+                        "framework": {
+                            "names": [
+                                "com.novocode.junit.JUnitFramework"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "C:\\Program Files\\Java\\jdk-11.0.12",
+                "options": [
+                    
+                ]
+            },
+            "mainClass": [
+                
+            ],
+            "classpath": [
+                "C:\\Users\\james\\Exercism\\java\\cars-assemble\\.bloop\\cars-assemble\\build\\classes",
+                "C:\\Users\\james\\Exercism\\java\\cars-assemble\\src\\main\\resources",
+                "C:\\Users\\james\\.gradle\\caches\\modules-2\\files-2.1\\junit\\junit\\4.13\\e49ccba652b735c93bd6e6f59760d8254cf597dd\\junit-4.13.jar",
+                "C:\\Users\\james\\.gradle\\caches\\modules-2\\files-2.1\\org.assertj\\assertj-core\\3.15.0\\b5b633545f357f576bd0661b302914a3951319d\\assertj-core-3.15.0.jar",
+                "C:\\Users\\james\\.gradle\\caches\\modules-2\\files-2.1\\org.hamcrest\\hamcrest-core\\1.3\\42a25dc3219429f0e5d060061f71acb49bf010a0\\hamcrest-core-1.3.jar"
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.hamcrest",
+                    "name": "hamcrest-core",
+                    "version": "1.3",
+                    "artifacts": [
+                        {
+                            "name": "hamcrest-core",
+                            "path": "C:\\Users\\james\\.gradle\\caches\\modules-2\\files-2.1\\org.hamcrest\\hamcrest-core\\1.3\\42a25dc3219429f0e5d060061f71acb49bf010a0\\hamcrest-core-1.3.jar"
+                        },
+                        {
+                            "name": "hamcrest-core",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\james\\.gradle\\caches\\modules-2\\files-2.1\\org.hamcrest\\hamcrest-core\\1.3\\1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b\\hamcrest-core-1.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "junit",
+                    "name": "junit",
+                    "version": "4.13",
+                    "artifacts": [
+                        {
+                            "name": "junit",
+                            "path": "C:\\Users\\james\\.gradle\\caches\\modules-2\\files-2.1\\junit\\junit\\4.13\\e49ccba652b735c93bd6e6f59760d8254cf597dd\\junit-4.13.jar"
+                        },
+                        {
+                            "name": "junit",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\james\\.gradle\\caches\\modules-2\\files-2.1\\junit\\junit\\4.13\\d10a9c3acc6c07a5700e37697b5a6b4dcfb8abf9\\junit-4.13-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.assertj",
+                    "name": "assertj-core",
+                    "version": "3.15.0",
+                    "artifacts": [
+                        {
+                            "name": "assertj-core",
+                            "path": "C:\\Users\\james\\.gradle\\caches\\modules-2\\files-2.1\\org.assertj\\assertj-core\\3.15.0\\b5b633545f357f576bd0661b302914a3951319d\\assertj-core-3.15.0.jar"
+                        },
+                        {
+                            "name": "assertj-core",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\james\\.gradle\\caches\\modules-2\\files-2.1\\org.assertj\\assertj-core\\3.15.0\\cdbc8f9f767bfbce3dddd5f32852172f34a36718\\assertj-core-3.15.0-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "test"
+        ]
+    }
+}
