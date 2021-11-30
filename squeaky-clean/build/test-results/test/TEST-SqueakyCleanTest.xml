@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SqueakyCleanTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-11-30T03:09:56" hostname="JORTIZ" time="0.109">
+  <properties/>
+  <testcase name="spaces" classname="SqueakyCleanTest" time="0.104"/>
+  <testcase name="string" classname="SqueakyCleanTest" time="0.002"/>
+  <testcase name="ctrl" classname="SqueakyCleanTest" time="0.0"/>
+  <testcase name="empty" classname="SqueakyCleanTest" time="0.001"/>
+  <testcase name="leading_and_trailing_spaces" classname="SqueakyCleanTest" time="0.0"/>
+  <testcase name="kebab_to_camel_case" classname="SqueakyCleanTest" time="0.001"/>
+  <testcase name="single_letter" classname="SqueakyCleanTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
