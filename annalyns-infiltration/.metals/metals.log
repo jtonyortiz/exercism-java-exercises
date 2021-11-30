@@ -1,0 +1,247 @@
+[0m2021.11.19 00:40:22 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\james\Exercism\java\annalyns-infiltration' for client Visual Studio Code 1.62.1.[0m
+[0m2021.11.19 00:40:30 INFO  time: initialize in 7.96s[0m
+[0m2021.11.19 00:40:32 WARN  Build server is not auto-connectable.[0m
+Nov 19, 2021 12:40:38 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.11.19 00:44:44 INFO  running 'C:\Users\james\AppData\Local\Temp\metals10737991373619298745\gradlew.bat --console=plain --init-script C:\Users\james\AppData\Local\Temp\metals10737991373619298745\init-script.gradle bloopInstall'[0m
+[0m2021.11.19 00:44:46 INFO  Starting a Gradle Daemon (subsequent builds will be faster)[0m
+[0m2021.11.19 00:44:55 INFO  > Task :configureBloopInstall[0m
+[0m2021.11.19 00:44:55 INFO  > Task :bloopInstall[0m
+[0m2021.11.19 00:44:55 INFO  [0m
+[0m2021.11.19 00:44:55 INFO  BUILD SUCCESSFUL in 12s[0m
+[0m2021.11.19 00:44:55 INFO  2 actionable tasks: 2 executed[0m
+[0m2021.11.19 00:44:56 INFO  time: ran 'gradle bloopInstall' in 12s[0m
+[0m2021.11.19 00:44:56 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 27298'...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.11...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading 2 projects from 'c:\Users\james\Exercism\java\annalyns-infiltration\.bloop'...
+[0m[32m[D][0m Loading project from 'c:\Users\james\Exercism\java\annalyns-infiltration\.bloop\annalyns-infiltration.json'
+[0m[32m[D][0m Loading project from 'c:\Users\james\Exercism\java\annalyns-infiltration\.bloop\annalyns-infiltration-test.json'
+[0m[32m[D][0m Missing analysis file for project 'annalyns-infiltration-test'
+[0m[32m[D][0m Missing analysis file for project 'annalyns-infiltration'
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:27298...
+The server is listening for incoming connections at tcp://127.0.0.1:27298...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.11.19 00:45:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\james\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.11.19 00:45:08 INFO  time: Connected to build server in 12s[0m
+[0m2021.11.19 00:45:08 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2021.11.19 00:45:08 INFO  time: Imported build in 0.2s[0m
+[0m2021.11.19 00:45:14 INFO  time: indexed workspace in 5.37s[0m
+[0m2021.11.19 00:45:44 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:45:45 INFO  time: compiled annalyns-infiltration in 1.39s[0m
+[0m2021.11.19 00:45:49 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:45:49 INFO  time: compiled annalyns-infiltration in 90ms[0m
+[0m2021.11.19 00:45:51 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:45:51 INFO  time: compiled annalyns-infiltration in 0.24s[0m
+[0m2021.11.19 00:46:11 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:46:11 INFO  time: compiled annalyns-infiltration in 71ms[0m
+[0m2021.11.19 00:46:13 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:46:13 INFO  time: compiled annalyns-infiltration in 0.11s[0m
+[0m2021.11.19 00:46:40 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:46:40 INFO  time: compiled annalyns-infiltration in 85ms[0m
+[0m2021.11.19 00:46:42 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:46:42 INFO  time: compiled annalyns-infiltration in 73ms[0m
+[0m2021.11.19 00:46:47 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:46:47 INFO  time: compiled annalyns-infiltration in 0.12s[0m
+[0m2021.11.19 00:46:49 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:46:49 INFO  time: compiled annalyns-infiltration in 36ms[0m
+[0m2021.11.19 00:46:51 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:46:51 INFO  time: compiled annalyns-infiltration in 0.22s[0m
+[0m2021.11.19 00:46:53 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:46:53 INFO  time: compiled annalyns-infiltration in 79ms[0m
+[0m2021.11.19 00:46:56 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:46:56 INFO  time: compiled annalyns-infiltration in 0.11s[0m
+[0m2021.11.19 00:47:03 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:47:03 INFO  time: compiled annalyns-infiltration in 48ms[0m
+[0m2021.11.19 00:47:05 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:47:05 INFO  time: compiled annalyns-infiltration in 59ms[0m
+[0m2021.11.19 00:47:25 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:47:25 INFO  time: compiled annalyns-infiltration in 54ms[0m
+[0m2021.11.19 00:47:27 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:47:27 INFO  time: compiled annalyns-infiltration in 30ms[0m
+[0m2021.11.19 00:49:42 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:49:42 INFO  time: compiled annalyns-infiltration in 78ms[0m
+[0m2021.11.19 00:49:44 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:49:44 INFO  time: compiled annalyns-infiltration in 61ms[0m
+[0m2021.11.19 00:49:48 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:49:48 INFO  time: compiled annalyns-infiltration in 62ms[0m
+[0m2021.11.19 00:49:50 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:49:50 INFO  time: compiled annalyns-infiltration in 30ms[0m
+[0m2021.11.19 00:50:12 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:50:12 INFO  time: compiled annalyns-infiltration in 50ms[0m
+[0m2021.11.19 00:50:18 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:50:18 INFO  time: compiled annalyns-infiltration in 82ms[0m
+[0m2021.11.19 00:50:20 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:50:20 INFO  time: compiled annalyns-infiltration in 47ms[0m
+[0m2021.11.19 00:50:24 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:50:24 INFO  time: compiled annalyns-infiltration in 29ms[0m
+[0m2021.11.19 00:50:26 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:50:26 INFO  time: compiled annalyns-infiltration in 22ms[0m
+[0m2021.11.19 00:50:39 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:50:39 INFO  time: compiled annalyns-infiltration in 53ms[0m
+[0m2021.11.19 00:50:41 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:50:41 INFO  time: compiled annalyns-infiltration in 61ms[0m
+[0m2021.11.19 00:50:49 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:50:49 INFO  time: compiled annalyns-infiltration in 52ms[0m
+[0m2021.11.19 00:50:51 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:50:51 INFO  time: compiled annalyns-infiltration in 49ms[0m
+[0m2021.11.19 00:50:53 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:50:53 INFO  time: compiled annalyns-infiltration in 47ms[0m
+[0m2021.11.19 00:51:01 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:51:01 INFO  time: compiled annalyns-infiltration in 42ms[0m
+[0m2021.11.19 00:51:03 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:51:03 INFO  time: compiled annalyns-infiltration in 44ms[0m
+[0m2021.11.19 00:51:08 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:51:08 INFO  time: compiled annalyns-infiltration in 61ms[0m
+[0m2021.11.19 00:51:10 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:51:10 INFO  time: compiled annalyns-infiltration in 40ms[0m
+[0m2021.11.19 00:51:14 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:51:14 INFO  time: compiled annalyns-infiltration in 45ms[0m
+[0m2021.11.19 00:51:16 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:51:16 INFO  time: compiled annalyns-infiltration in 47ms[0m
+[0m2021.11.19 00:51:19 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:51:19 INFO  time: compiled annalyns-infiltration in 40ms[0m
+[0m2021.11.19 00:51:38 INFO  compiling annalyns-infiltration (1 java source)[0m
+[0m2021.11.19 00:51:39 INFO  time: compiled annalyns-infiltration in 1.07s[0m
+[0m2021.11.19 00:52:35 INFO  compiling annalyns-infiltration-test (1 java source)[0m
+[0m2021.11.19 00:52:36 INFO  time: compiled annalyns-infiltration-test in 1.2s[0m
+[0m2021.11.19 00:52:43 INFO  compiling annalyns-infiltration-test (1 java source)[0m
+[0m2021.11.19 00:52:43 INFO  time: compiled annalyns-infiltration-test in 0.45s[0m
+[0m2021.11.19 00:52:45 INFO  compiling annalyns-infiltration-test (1 java source)[0m
+[0m2021.11.19 00:52:45 INFO  time: compiled annalyns-infiltration-test in 0.86s[0m
+[0m2021.11.19 00:52:48 INFO  compiling annalyns-infiltration-test (1 java source)[0m
+[0m2021.11.19 00:52:48 INFO  time: compiled annalyns-infiltration-test in 0.38s[0m
+[0m2021.11.19 00:52:51 INFO  compiling annalyns-infiltration-test (1 java source)[0m
+[0m2021.11.19 00:52:51 INFO  time: compiled annalyns-infiltration-test in 0.31s[0m
+[0m2021.11.19 00:52:53 INFO  compiling annalyns-infiltration-test (1 java source)[0m
+[0m2021.11.19 00:52:53 INFO  time: compiled annalyns-infiltration-test in 0.23s[0m
+[0m2021.11.19 00:52:55 INFO  compiling annalyns-infiltration-test (1 java source)[0m
+[0m2021.11.19 00:52:55 INFO  time: compiled annalyns-infiltration-test in 0.26s[0m
+[0m2021.11.19 00:52:58 INFO  compiling annalyns-infiltration-test (1 java source)[0m
+[0m2021.11.19 00:52:58 INFO  time: compiled annalyns-infiltration-test in 0.34s[0m
+[0m2021.11.19 00:53:00 INFO  compiling annalyns-infiltration-test (1 java source)[0m
+[0m2021.11.19 00:53:00 INFO  time: compiled annalyns-infiltration-test in 0.29s[0m
+[0m2021.11.19 00:53:03 INFO  compiling annalyns-infiltration-test (1 java source)[0m
+[0m2021.11.19 00:53:03 INFO  time: compiled annalyns-infiltration-test in 0.27s[0m
+[0m2021.11.19 00:53:05 INFO  compiling annalyns-infiltration-test (1 java source)[0m
+[0m2021.11.19 00:53:05 INFO  time: compiled annalyns-infiltration-test in 0.35s[0m
+[0m2021.11.19 00:53:10 INFO  compiling annalyns-infiltration-test (1 java source)[0m
+[0m2021.11.19 00:53:10 INFO  time: compiled annalyns-infiltration-test in 0.34s[0m
+[0m2021.11.19 00:53:12 INFO  compiling annalyns-infiltration-test (1 java source)[0m
+[0m2021.11.19 00:53:12 INFO  time: compiled annalyns-infiltration-test in 0.39s[0m
+[0m2021.11.19 00:53:17 INFO  compiling annalyns-infiltration-test (1 java source)[0m
+[0m2021.11.19 00:53:17 INFO  time: compiled annalyns-infiltration-test in 0.2s[0m
+[0m2021.11.19 00:53:19 INFO  compiling annalyns-infiltration-test (1 java source)[0m
+[0m2021.11.19 00:53:19 INFO  time: compiled annalyns-infiltration-test in 0.2s[0m
+[0m2021.11.19 00:53:22 INFO  compiling annalyns-infiltration-test (1 java source)[0m
+[0m2021.11.19 00:53:22 INFO  time: compiled annalyns-infiltration-test in 0.22s[0m
+[0m2021.11.19 07:47:32 INFO  shutting down Metals[0m
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+java.util.concurrent.RejectedExecutionException: Task scala.concurrent.impl.CallbackRunnable@62a2e5e rejected from java.util.concurrent.ThreadPoolExecutor@756d975c[Shutting down, pool size = 1, active threads = 1, queued tasks = 0, completed tasks = 2138]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2055)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:825)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1355)
+	at scala.concurrent.impl.ExecutionContextImpl$$anon$4.execute(ExecutionContextImpl.scala:138)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+[0m2021.11.23 21:21:09 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\james\Exercism\java\annalyns-infiltration' for client Visual Studio Code 1.62.3.[0m
+[0m2021.11.23 21:21:15 INFO  time: initialize in 5.49s[0m
+[0m2021.11.23 21:21:19 INFO  Attempting to connect to the build server...[0m
+[0m2021.11.23 21:21:19 INFO  skipping build import with status 'Installed'[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 14620'...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.11...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from 'c:\Users\james\Exercism\java\annalyns-infiltration\.bloop'...
+[0m[32m[D][0m Loading project from 'c:\Users\james\Exercism\java\annalyns-infiltration\.bloop\annalyns-infiltration.json'
+[0m[32m[D][0m Loading project from 'c:\Users\james\Exercism\java\annalyns-infiltration\.bloop\annalyns-infiltration-test.json'
+[0m[32m[D][0m Loading previous analysis for 'annalyns-infiltration-test' from 'C:\Users\james\Exercism\java\annalyns-infiltration\.bloop\annalyns-infiltration-test\build\annalyns-infiltration-test-analysis.bin'.
+[0m[32m[D][0m Loading previous analysis for 'annalyns-infiltration' from 'C:\Users\james\Exercism\java\annalyns-infiltration\.bloop\annalyns-infiltration\build\annalyns-infiltration-analysis.bin'.
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:14620...
+The server is listening for incoming connections at tcp://127.0.0.1:14620...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.11.23 21:21:38 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\james\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.11.23 21:21:38 INFO  time: Connected to build server in 20s[0m
+[0m2021.11.23 21:21:38 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2021.11.23 21:21:39 INFO  time: Imported build in 0.32s[0m
+[0m2021.11.23 21:21:44 INFO  time: indexed workspace in 4.48s[0m
+Nov 23, 2021 9:23:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 23, 2021 9:24:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.11.23 21:24:10 INFO  shutting down Metals[0m
+[0m2021.11.23 21:24:10 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+[0m2021.11.29 12:06:59 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\james\Exercism\java\annalyns-infiltration' for client Visual Studio Code 1.62.3.[0m
+[0m2021.11.29 12:07:04 INFO  time: initialize in 5.46s[0m
+[0m2021.11.29 12:07:06 INFO  Attempting to connect to the build server...[0m
+[0m2021.11.29 12:07:06 INFO  skipping build import with status 'Installed'[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 11991'...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.11...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from 'c:\Users\james\Exercism\java\annalyns-infiltration\.bloop'...
+[0m[32m[D][0m Loading project from 'c:\Users\james\Exercism\java\annalyns-infiltration\.bloop\annalyns-infiltration-test.json'
+[0m[32m[D][0m Loading project from 'c:\Users\james\Exercism\java\annalyns-infiltration\.bloop\annalyns-infiltration.json'
+[0m[32m[D][0m Loading previous analysis for 'annalyns-infiltration-test' from 'C:\Users\james\Exercism\java\annalyns-infiltration\.bloop\annalyns-infiltration-test\build\annalyns-infiltration-test-analysis.bin'.
+[0m[32m[D][0m Loading previous analysis for 'annalyns-infiltration' from 'C:\Users\james\Exercism\java\annalyns-infiltration\.bloop\annalyns-infiltration\build\annalyns-infiltration-analysis.bin'.
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:11991...
+The server is listening for incoming connections at tcp://127.0.0.1:11991...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.11.29 12:07:26 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\james\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.11.29 12:07:26 INFO  time: Connected to build server in 20s[0m
+[0m2021.11.29 12:07:26 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2021.11.29 12:07:26 INFO  time: Imported build in 0.25s[0m
+[0m2021.11.29 12:07:32 INFO  time: indexed workspace in 5.26s[0m
+[0m2021.11.29 12:08:18 INFO  shutting down Metals[0m
+[0m2021.11.29 12:08:18 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
