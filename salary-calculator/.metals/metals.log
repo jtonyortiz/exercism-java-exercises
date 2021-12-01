@@ -1,0 +1,170 @@
+[0m2021.12.01 10:49:38 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\james\Exercism\java\salary-calculator' for client Visual Studio Code 1.62.3.[0m
+[0m2021.12.01 10:49:42 INFO  time: initialize in 4s[0m
+[0m2021.12.01 10:49:43 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.01 11:02:27 INFO  running 'C:\Users\james\AppData\Local\Temp\metals17091270130833379867\gradlew.bat --console=plain --init-script C:\Users\james\AppData\Local\Temp\metals17091270130833379867\init-script.gradle bloopInstall'[0m
+[0m2021.12.01 11:02:30 INFO  Starting a Gradle Daemon (subsequent builds will be faster)[0m
+[0m2021.12.01 11:02:40 INFO  > Task :configureBloopInstall[0m
+[0m2021.12.01 11:02:40 INFO  > Task :bloopInstall[0m
+[0m2021.12.01 11:02:40 INFO  [0m
+[0m2021.12.01 11:02:40 INFO  BUILD SUCCESSFUL in 13s[0m
+[0m2021.12.01 11:02:40 INFO  2 actionable tasks: 2 executed[0m
+[0m2021.12.01 11:02:41 INFO  time: ran 'gradle bloopInstall' in 13s[0m
+[0m2021.12.01 11:02:41 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 39491'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading 2 projects from 'c:\Users\james\Exercism\java\salary-calculator\.bloop'...
+[0m[32m[D][0m Loading project from 'c:\Users\james\Exercism\java\salary-calculator\.bloop\salary-calculator-test.json'
+[0m[32m[D][0m Loading project from 'c:\Users\james\Exercism\java\salary-calculator\.bloop\salary-calculator.json'
+[0m[32m[D][0m Missing analysis file for project 'salary-calculator-test'
+[0m[32m[D][0m Missing analysis file for project 'salary-calculator'
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:39491...
+The server is listening for incoming connections at tcp://127.0.0.1:39491...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.12.01 11:02:42 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\james\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.12.01 11:02:42 INFO  time: Connected to build server in 1.41s[0m
+[0m2021.12.01 11:02:42 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2021.12.01 11:02:42 INFO  time: Imported build in 0.15s[0m
+[0m2021.12.01 11:02:46 INFO  time: indexed workspace in 3.88s[0m
+[0m2021.12.01 11:03:16 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:03:16 INFO  time: compiled salary-calculator in 0.99s[0m
+[0m2021.12.01 11:03:20 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:03:20 INFO  time: compiled salary-calculator in 93ms[0m
+[0m2021.12.01 11:03:28 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:03:28 INFO  time: compiled salary-calculator in 77ms[0m
+[0m2021.12.01 11:03:30 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:03:30 INFO  time: compiled salary-calculator in 64ms[0m
+[0m2021.12.01 11:03:32 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:03:32 INFO  time: compiled salary-calculator in 42ms[0m
+[0m2021.12.01 11:03:40 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:03:40 INFO  time: compiled salary-calculator in 77ms[0m
+[0m2021.12.01 11:03:42 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:03:42 INFO  time: compiled salary-calculator in 71ms[0m
+[0m2021.12.01 11:03:44 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:03:44 INFO  time: compiled salary-calculator in 46ms[0m
+[0m2021.12.01 11:03:47 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:03:47 INFO  time: compiled salary-calculator in 44ms[0m
+[0m2021.12.01 11:03:58 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:03:58 INFO  time: compiled salary-calculator in 43ms[0m
+[0m2021.12.01 11:04:00 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:04:00 INFO  time: compiled salary-calculator in 36ms[0m
+[0m2021.12.01 11:04:02 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:04:02 INFO  time: compiled salary-calculator in 30ms[0m
+[0m2021.12.01 11:04:08 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:04:08 INFO  time: compiled salary-calculator in 41ms[0m
+[0m2021.12.01 11:04:14 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:04:14 INFO  time: compiled salary-calculator in 41ms[0m
+[0m2021.12.01 11:04:16 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:04:16 INFO  time: compiled salary-calculator in 34ms[0m
+[0m2021.12.01 11:04:18 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:04:20 INFO  time: compiled salary-calculator in 1.09s[0m
+[0m2021.12.01 11:04:37 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:04:37 INFO  time: compiled salary-calculator in 0.15s[0m
+[0m2021.12.01 11:04:52 INFO  compiling salary-calculator-test (1 java source)[0m
+[0m2021.12.01 11:04:52 INFO  time: compiled salary-calculator-test in 0.69s[0m
+[0m2021.12.01 11:06:22 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:06:22 INFO  time: compiled salary-calculator in 74ms[0m
+[0m2021.12.01 11:06:24 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:06:24 INFO  time: compiled salary-calculator in 61ms[0m
+[0m2021.12.01 11:06:26 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:06:26 INFO  time: compiled salary-calculator in 52ms[0m
+[0m2021.12.01 11:06:39 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:06:39 INFO  time: compiled salary-calculator in 49ms[0m
+[0m2021.12.01 11:06:42 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:06:42 INFO  time: compiled salary-calculator in 44ms[0m
+[0m2021.12.01 11:06:45 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:06:45 INFO  time: compiled salary-calculator in 30ms[0m
+[0m2021.12.01 11:06:47 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:06:47 INFO  time: compiled salary-calculator in 30ms[0m
+[0m2021.12.01 11:06:49 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:06:49 INFO  time: compiled salary-calculator in 28ms[0m
+[0m2021.12.01 11:06:53 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:06:53 INFO  time: compiled salary-calculator in 31ms[0m
+[0m2021.12.01 11:06:55 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:06:55 INFO  time: compiled salary-calculator in 26ms[0m
+[0m2021.12.01 11:08:11 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:08:11 INFO  time: compiled salary-calculator in 36ms[0m
+[0m2021.12.01 11:08:13 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:08:13 INFO  time: compiled salary-calculator in 36ms[0m
+[0m2021.12.01 11:08:16 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:08:16 INFO  time: compiled salary-calculator in 38ms[0m
+[0m2021.12.01 11:08:18 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:08:18 INFO  time: compiled salary-calculator in 35ms[0m
+[0m2021.12.01 11:08:22 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:08:22 INFO  time: compiled salary-calculator in 28ms[0m
+[0m2021.12.01 11:08:25 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:08:25 INFO  time: compiled salary-calculator in 22ms[0m
+[0m2021.12.01 11:08:27 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:08:27 INFO  time: compiled salary-calculator in 27ms[0m
+[0m2021.12.01 11:08:38 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:08:38 INFO  time: compiled salary-calculator in 24ms[0m
+[0m2021.12.01 11:08:40 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:08:40 INFO  time: compiled salary-calculator in 29ms[0m
+[0m2021.12.01 11:08:42 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:08:42 INFO  time: compiled salary-calculator in 31ms[0m
+[0m2021.12.01 11:08:46 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:08:46 INFO  time: compiled salary-calculator in 28ms[0m
+[0m2021.12.01 11:08:48 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:08:48 INFO  time: compiled salary-calculator in 23ms[0m
+[0m2021.12.01 11:08:55 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:08:55 INFO  time: compiled salary-calculator in 26ms[0m
+[0m2021.12.01 11:08:57 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:08:57 INFO  time: compiled salary-calculator in 30ms[0m
+[0m2021.12.01 11:08:59 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:08:59 INFO  time: compiled salary-calculator in 17ms[0m
+[0m2021.12.01 11:09:03 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:09:03 INFO  time: compiled salary-calculator in 26ms[0m
+[0m2021.12.01 11:09:05 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:09:05 INFO  time: compiled salary-calculator in 21ms[0m
+[0m2021.12.01 11:09:10 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:09:10 INFO  time: compiled salary-calculator in 34ms[0m
+[0m2021.12.01 11:09:12 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:09:12 INFO  time: compiled salary-calculator in 24ms[0m
+[0m2021.12.01 11:09:14 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:09:14 INFO  time: compiled salary-calculator in 21ms[0m
+[0m2021.12.01 11:09:16 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:09:16 INFO  time: compiled salary-calculator in 19ms[0m
+[0m2021.12.01 11:09:18 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:09:18 INFO  time: compiled salary-calculator in 51ms[0m
+[0m2021.12.01 11:09:21 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:09:21 INFO  time: compiled salary-calculator in 82ms[0m
+[0m2021.12.01 11:10:17 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:10:17 INFO  time: compiled salary-calculator in 28ms[0m
+[0m2021.12.01 11:10:19 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:10:19 INFO  time: compiled salary-calculator in 21ms[0m
+[0m2021.12.01 11:10:28 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:10:28 INFO  time: compiled salary-calculator in 30ms[0m
+[0m2021.12.01 11:10:30 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:10:30 INFO  time: compiled salary-calculator in 21ms[0m
+[0m2021.12.01 11:10:32 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:10:32 INFO  time: compiled salary-calculator in 25ms[0m
+[0m2021.12.01 11:10:35 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:10:35 INFO  time: compiled salary-calculator in 27ms[0m
+[0m2021.12.01 11:10:37 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:10:37 INFO  time: compiled salary-calculator in 23ms[0m
+[0m2021.12.01 11:10:39 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:10:39 INFO  time: compiled salary-calculator in 27ms[0m
+[0m2021.12.01 11:10:41 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:10:41 INFO  time: compiled salary-calculator in 25ms[0m
+[0m2021.12.01 11:10:43 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:10:43 INFO  time: compiled salary-calculator in 0.1s[0m
+[0m2021.12.01 11:10:52 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:10:52 INFO  time: compiled salary-calculator in 0.11s[0m
+[0m2021.12.01 11:11:07 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:11:07 INFO  time: compiled salary-calculator in 73ms[0m
+[0m2021.12.01 11:14:38 INFO  compiling salary-calculator-test (1 java source)[0m
+[0m2021.12.01 11:14:38 INFO  time: compiled salary-calculator-test in 0.33s[0m
+[0m2021.12.01 11:15:00 INFO  compiling salary-calculator-test (1 java source)[0m
+[0m2021.12.01 11:15:00 INFO  time: compiled salary-calculator-test in 0.36s[0m
+[0m2021.12.01 11:15:40 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:15:40 INFO  time: compiled salary-calculator in 77ms[0m
+[0m2021.12.01 11:15:44 INFO  compiling salary-calculator (1 java source)[0m
+[0m2021.12.01 11:15:44 INFO  time: compiled salary-calculator in 64ms[0m
+[0m2021.12.01 11:48:40 INFO  compiling salary-calculator-test (1 java source)[0m
+[0m2021.12.01 11:48:40 INFO  time: compiled salary-calculator-test in 0.32s[0m
+[0m2021.12.01 12:21:42 INFO  shutting down Metals[0m
+[0m2021.12.01 12:21:42 INFO  Shut down connection with build server.[0m
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the client stdin, exiting...
